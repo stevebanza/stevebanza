@@ -18,7 +18,8 @@ These repositories rebuild my methods on **synthetic data**. Real country data a
 | --- | --- |
 | [template-automation-demo](https://github.com/stevebanza/template-automation-demo) | Multi-year Excel survey templates, automated end to end: roll-forward with a cell-by-cell diff check, language versions, a YAML validation-rule engine, country review reports and a SQL release database |
 | [ri-coverage-analytics](https://github.com/stevebanza/ri-coverage-analytics) | Routine immunization information package from a DHIS2 export: coverage, dropout categories, data-quality checks, choropleth maps, PowerPoint deck and an offline HTML dashboard |
-| [malaria-epidemic-thresholds](https://github.com/stevebanza/malaria-epidemic-thresholds) | Weekly malaria epidemic detection by district: third-quartile, mean + 2 SD and C-SUM thresholds, automatic exclusion of past epidemic years, colour-coded Excel status and an offline monitoring dashboard |
+| [malaria-epidemic-thresholds](https://github.com/stevebanza/malaria-epidemic-thresholds) | Weekly malaria epidemic detection: each week compared with the same week of the 5 previous years (abnormal years replaced), six threshold measures, N/A/E status at national, regional and district level, Excel workbook and offline dashboard |
+| [ri-inbox-organiser](https://github.com/stevebanza/ri-inbox-organiser) | Files country surveillance data from a shared mailbox: classifies each attachment by country and data type (file-name codes, subject, sender, body), skips duplicates and signature images, and logs the reason for every decision |
 
 ### Work I do
 
